@@ -1,0 +1,174 @@
+<resources>
+    <string name="app_name">Курсачман</string>
+    <string name="title_activity_question">Ерундопель</string>
+    <string name="title_activity_informatic">Информатика</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="question_abdragan">Абдраган</string>
+
+    <string name="answer_abdragan_1">Cтрах, испуг, боязнь</string>
+    <string name="answer_abdragan_2">Большой монгольский кинжал</string>
+    <string name="answer_abdragan_3">Вымерший вид животных, внешне сходных с быками</string>
+
+
+    <string name="question_ajlibati">Ажлибать</string>
+
+    <string name="answer_ajlibati_1">Есть ложкой, хлебать</string>
+    <string name="answer_ajlibati_2">Слишком часто использовать междометия</string>
+    <string name="answer_ajlibati_3">С завистью обглядывать человека</string>
+
+
+    <string name="question_ai">Ай</string>
+
+    <string name="answer_ai_1">Трехпалый ленивец</string>
+    <string name="answer_ai_2">Короткий лук</string>
+    <string name="answer_ai_3">Смазка для бильярдного кия</string>
+
+
+    <string name="question_aidanchiki">Айданчики</string>
+
+    <string name="answer_aidanchiki_1">Маленькие косточки из бараньих ножек</string>
+    <string name="answer_aidanchiki_2">Исполнители украинских народных песен</string>
+    <string name="answer_aidanchiki_3">Вид рыб, обитающих только в озере Байкал</string>
+
+
+    <string name="question_aleakish">Алякиш</string>
+
+    <string name="answer_aleakish_1">Недопеченный хлеб, полусырой, с закалом; мякиш; ком теста</string>
+    <string name="answer_aleakish_2">Отравленный колодец</string>
+    <string name="answer_aleakish_3">Безалкогольный напиток из айвы</string>
+
+
+    <string name="question_andilshina">Андыльщина</string>
+
+    <string name="answer_andilshina_1">Любовная песня</string>
+    <string name="answer_andilshina_2">Неприятная ситуация</string>
+    <string name="answer_andilshina_3">Место проведения рыцарских поединков</string>
+
+
+    <string name="question_apofegma">Апофегма</string>
+
+    <string name="answer_apofegma_1">Краткое остроумное нравоучительное изречение</string>
+    <string name="answer_apofegma_2">Учение древнегреческих софистов</string>
+    <string name="answer_apofegma_3">Стремление выдать желаемое за действительное</string>
+
+
+    <string name="question_arhitrav">Архитрав</string>
+
+    <string name="answer_arhitrav_1">Прямолинейная перекладина над колоннами, столбами, оконными и дверными проемами</string>
+    <string name="answer_arhitrav_2">Название фармацевта в древности</string>
+    <string name="answer_arhitrav_3">Незаконченное литературное произведение</string>
+
+
+    <string name="question_asletok">Аслеток</string>
+
+    <string name="answer_asletok_1">Полный, тучный ребенок</string>
+    <string name="answer_asletok_2">Неядовитый гриб</string>
+    <string name="answer_asletok_3">След на снегу</string>
+
+
+    <string name="question_aiukla">Аюкла</string>
+
+    <string name="answer_aiukla_1">Уродина, пугало, в которого, впрочем, иные верят как в лешего</string>
+    <string name="answer_aiukla_2">Глубокая миска для супа</string>
+    <string name="answer_aiukla_3">Хижина в африканском племени</string>
+
+
+    <string name="question_badrovati">Бадровать</string>
+
+    <string name="answer_badrovati_1">Затевать что-то странное</string>
+    <string name="answer_badrovati_2">Тренироваться в актёрском мастерстве</string>
+    <string name="answer_badrovati_3">Использовать вещи не по назначению</string>
+
+
+    <string name="question_baiduje">Байдуже (наречие)</string>
+
+    <string name="answer_baiduje_1">Нужды нет, нужды мало, без внимания</string>
+    <string name="answer_baiduje_2">(Кушать) без хлеба</string>
+    <string name="answer_baiduje_3">Без приглашения</string>
+
+
+    <string name="question_balentreasiti">Балентрясить</string>
+
+    <string name="answer_balentreasiti_1">Говорить забавные пустячки</string>
+    <string name="answer_balentreasiti_2">Не обращать внимания</string>
+    <string name="answer_balentreasiti_3">Следить за человеком исключительно ради забавы</string>
+
+
+    <string name="question_berenderiti">Берендерить</string>
+
+    <string name="answer_berenderiti_1">Мешать, препятствовать; спорить, перечить</string>
+    <string name="answer_berenderiti_2">Пытаться починить что-то, не имея представления о том, как это сделать</string>
+    <string name="answer_berenderiti_3">Покупать совершенно ненужные вещи</string>
+
+
+    <string name="question_bizii">Бизый</string>
+
+    <string name="answer_bizii_1">Близорукий, подслеповатый</string>
+    <string name="answer_bizii_2">Оттенок синего цвета</string>
+    <string name="answer_bizii_3">Человек, путающий окончания</string>
+
+
+
+    <string name="informatic_processor">Процессор</string>
+
+    <string name="answer_processor_1">Управляет потоками данных посредством специальных команд</string>
+    <string name="answer_processor_2">Плата в компьютере, имеющая самые большие размеры</string>
+    <string name="answer_processor_3">Корпус, в котором находятся основные компоненты компьютера</string>
+
+    <string name="informatic_loop">Операторы цикла</string>
+
+    <string name="answer_loop_1">for, while, repeat</string>
+    <string name="answer_loop_2">if/else, case</string>
+    <string name="answer_loop_3">sin(), cos()</string>
+
+    <string name="informatic_vector">Векторное изображение</string>
+
+    <string name="answer_vector_1">Изображение, описываемое графическими примитивами - точка, кривая и т.д.</string>
+    <string name="answer_vector_2">Изображение, качество которого сильно зависит от степени масштабирования</string>
+    <string name="answer_vector_3">Изображение, цель которого - указать какое-либо направление</string>
+
+    <string name="informatic_oop">ООП</string>
+
+    <string name="answer_oop_1">Объектно-ориентированное программирование</string>
+    <string name="answer_oop_2">Операция определения процессора</string>
+    <string name="answer_oop_3">Открытое облако программ</string>
+
+    <string name="informatic_pascal">Создатель языка Паскаль</string>
+
+    <string name="answer_pascal_1">Никлаус Вирт</string>
+    <string name="answer_pascal_2">Блез Паскаль</string>
+    <string name="answer_pascal_3">Фридрих Ницше</string>
+
+    <string name="informatic_algoritm">Алгоритм</string>
+
+    <string name="answer_algoritm_1">Алгоритм — набор инструкций, описывающих порядок действий для достижения результата</string>
+    <string name="answer_algoritm_2">Частота биения сердца человека</string>
+    <string name="answer_algoritm_3">Количество данных, которые может обработать программа</string>
+
+    <string name="informatic_ooplang">ООП язык программирования</string>
+
+    <string name="answer_ooplang_1">Java</string>
+    <string name="answer_ooplang_2">Pascal</string>
+    <string name="answer_ooplang_3">C</string>
+
+    <string name="informatic_array">Массив</string>
+
+    <string name="answer_array_1">Cтруктура данных в виде набора компонентов, расположенных в памяти друг за другом</string>
+    <string name="answer_array_2">Внутренняя память устройства</string>
+    <string name="answer_array_3">Все переменные, задействованные в программе</string>
+
+    <string name="informatic_assembler">Ассемблер</string>
+
+    <string name="answer_assembler_1">Транслятор исходного текста программы, написанной на языке ассемблера, в программу на машинном языке</string>
+    <string name="answer_assembler_2">Альтернативное название блока питания</string>
+    <string name="answer_assembler_3">Фамилия создателя первого компьютера</string>
+
+    <string name="informatic_coder">Первый программист</string>
+
+    <string name="answer_coder_1">Ада Байрон</string>
+    <string name="answer_coder_2">Алан Тьюринг</string>
+    <string name="answer_coder_3">Луций Сенека</string>
+
+
+</resources>
