@@ -11,6 +11,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.kursach.determinator3.InformaticActivity;
+import com.kursach.determinator3.InformaticLab;
 import com.kursach.determinator3.Question;
 import com.kursach.determinator3.QuestionActivity;
 import com.kursach.determinator3.QuestionLab;
@@ -53,12 +54,16 @@ public class QuestionRecyclerViewAdapter extends RecyclerView.Adapter<RecyclerVi
                 //Если fragmentCode - код RecyclerViewFragment, то запускаем QuestionActivity
                 if (fragmentCode == CODE_RVFRAGMENT) {
                     intent = new Intent(v.getContext(), QuestionActivity.class);
+                    intent.putExtra(QuestionActivity.EXTRA_QUESTION_ID,
+                            QuestionLab.getInstance(v.getContext()).getQuestions().get(position).getId());
                 } else
                 //Иначе InformaticActivity
+                {
                     intent = new Intent(v.getContext(), InformaticActivity.class);
+                    intent.putExtra(QuestionActivity.EXTRA_QUESTION_ID,
+                            InformaticLab.getInstance(v.getContext()).getQuestions().get(position).getId());
+                }
 
-                intent.putExtra(QuestionActivity.EXTRA_QUESTION_ID,
-                        QuestionLab.getInstance(v.getContext()).getQuestions().get(position).getId());
                 v.getContext().startActivity(intent);
             }
         });
